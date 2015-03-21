@@ -1,0 +1,8 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.egit.core.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.egit.core.source_3.5.1.201410131835-r.jar,-1,false
+org.eclipse.egit.mylyn.ui.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.egit.mylyn.ui.source_3.5.1.201410131835-r.jar,-1,false
+org.eclipse.egit.ui.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.egit.ui.source_3.5.1.201410131835-r.jar,-1,false
+org.eclipse.jgit.java7.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.jgit.java7.source_3.5.1.201410131835-r.jar,-1,false
+org.eclipse.jgit.pgm.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.jgit.pgm.source_3.5.1.201410131835-r.jar,-1,false
+org.eclipse.jgit.source,3.5.1.201410131835-r,../../../Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/plugins/org.eclipse.jgit.source_3.5.1.201410131835-r.jar,-1,false

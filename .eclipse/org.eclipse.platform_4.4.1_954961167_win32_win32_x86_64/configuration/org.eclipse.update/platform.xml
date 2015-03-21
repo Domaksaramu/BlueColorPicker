@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1415517963577" transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" version="3.0">
+	<site updateable="true" url="file:/C:/Users/Jaewon/.eclipse/org.eclipse.platform_4.4.1_954961167_win32_win32_x86_64/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.egit" version="3.5.1.201410131835-r" url="features/org.eclipse.egit_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.jgit.pgm" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit.pgm_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.cdt.gdb" version="8.5.0.201409172108" url="features/org.eclipse.cdt.gdb_8.5.0.201409172108/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.debug" version="8.5.0.201409172108" url="features/org.eclipse.cdt.gnu.debug_8.5.0.201409172108/">
+		</feature>
+		<feature id="org.eclipse.jgit.http.apache" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit.http.apache_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.egit.mylyn" version="3.5.1.201410131835-r" url="features/org.eclipse.egit.mylyn_3.5.1.201410131835-r/" plugin-identifier="org.eclipse.egit">
+		</feature>
+		<feature id="org.eclipse.egit.source" version="3.5.1.201410131835-r" url="features/org.eclipse.egit.source_3.5.1.201410131835-r/" plugin-identifier="org.eclipse.egit">
+		</feature>
+		<feature id="org.eclipse.jgit.source" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit.source_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="com.android.ide.eclipse.adt.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.adt.feature_23.0.4.1468518/" plugin-identifier="com.android.ide.eclipse.adt">
+		</feature>
+		<feature id="org.eclipse.cdt.native" version="8.5.0.201409172108" url="features/org.eclipse.cdt.native_8.5.0.201409172108/">
+		</feature>
+		<feature id="com.android.ide.eclipse.hierarchyviewer.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.hierarchyviewer.feature_23.0.4.1468518/" plugin-identifier="com.android.ide.eclipse.hierarchyviewer">
+		</feature>
+		<feature id="com.android.ide.eclipse.ddms.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.ddms.feature_23.0.4.1468518/" plugin-identifier="com.android.ide.eclipse.ddms">
+		</feature>
+		<feature id="org.eclipse.cdt" version="8.5.0.201409172108" url="features/org.eclipse.cdt_8.5.0.201409172108/">
+		</feature>
+		<feature id="com.android.ide.eclipse.ndk.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.ndk.feature_23.0.4.1468518/">
+		</feature>
+		<feature id="com.android.ide.eclipse.gldebugger.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.gldebugger.feature_23.0.4.1468518/">
+		</feature>
+		<feature id="com.android.ide.eclipse.traceview.feature" version="23.0.4.1468518" url="features/com.android.ide.eclipse.traceview.feature_23.0.4.1468518/" plugin-identifier="com.android.ide.eclipse.traceview">
+		</feature>
+		<feature id="org.eclipse.jgit.pgm.source" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit.pgm.source_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.cdt.platform" version="8.5.0.201409172108" url="features/org.eclipse.cdt.platform_8.5.0.201409172108/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.dsf" version="8.5.0.201409172108" url="features/org.eclipse.cdt.gnu.dsf_8.5.0.201409172108/">
+		</feature>
+		<feature id="org.eclipse.jgit.java7" version="3.5.1.201410131835-r" url="features/org.eclipse.jgit.java7_3.5.1.201410131835-r/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.build" version="8.5.0.201409172108" url="features/org.eclipse.cdt.gnu.build_8.5.0.201409172108/">
+		</feature>
+		<feature id="com.baloise.egitblit.feature" version="0.0.1.201410271320" url="features/com.baloise.egitblit.feature_0.0.1.201410271320/">
+		</feature>
+	</site>
+</config>
